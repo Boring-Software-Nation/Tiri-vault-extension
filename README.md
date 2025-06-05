@@ -109,4 +109,4 @@ VITE_SIG_V2_ASYMMETRIC=
 ```
 
 ##Related repos
-[The ARC Gateway](https://github.com/bsn-si/sia-datawallet-extension)
+[Tiri Relay](https://github.com/Boring-Software-Nation/Tiri-relay)
